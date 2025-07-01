@@ -1,0 +1,14 @@
+{
+  "version": "1.1",
+  "release_date": "2025-07-01",
+  "download_url": "https://github.com/Brandonworldwid/viddown-updates/releases/latest/download/viddown.exe",
+  "features": [
+    "✅ Auto-update support added",
+    "🐞 Fixed thumbnail bug",
+    "⚡ Improved multi-download speed"
+  ]
+}
+
+
+
+Add initial version info for updater
